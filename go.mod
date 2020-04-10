@@ -1,4 +1,6 @@
-module github.com/lopezator/migrator
+module github.com/pablote/migrator
+
+go 1.14
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1
